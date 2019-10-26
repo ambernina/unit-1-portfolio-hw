@@ -67,6 +67,7 @@ p, form {
     font-size: 1em;
     line-height: 150%;
     color: #777777;
+    display: inline-block;
 }
 
 .p1 {
@@ -88,7 +89,7 @@ footer {
     width: 100%;
 }
 
-/* Portfolio Styles */
+/* Portfolio Styles
 
 img {
     float: left;
@@ -121,7 +122,7 @@ img {
     color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
-  }
+  } */
 
 hr { 
     width:100%; 

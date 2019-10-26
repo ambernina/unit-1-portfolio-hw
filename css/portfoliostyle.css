@@ -1,0 +1,52 @@
+img {
+    float: left;
+    margin-right: 20px;
+}
+
+.container {
+    background: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.port-container {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  float: left;
+  margin: 20px;
+}
+
+p {
+  
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+/*   margin: 0 auto; */
+}
+
+.text-block {
+  position: absolute;
+  background-color: #4aaaa9;
+  width: 280px;
+  height: 50px;
+  text-align: center;
+  padding: 10px;
+  bottom: 20px;
+}
+
+.text-block p {
+    color: #ffffff;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
