@@ -51,6 +51,7 @@ a {
 
 body {
     margin: 0 auto;
+    background-image: url(../assets/images/cork-board.png);
 }
 
 .container {
